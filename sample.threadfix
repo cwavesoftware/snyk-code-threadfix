@@ -1,0 +1,15 @@
+{
+  "id": -1,
+  "created": "2018-01-02T00:00:00Z",
+  "updated": "2018-01-02T00:00:00Z",
+  "exported": "2018-01-03T11:00:00Z",
+  "collectionType": "SAST",
+  "source": "Snyk Code",
+  "executiveSummary": "",
+  "metadata": {
+    "version": "1.2",
+    "reviewed by third party": "false"
+  },
+  "findings": [
+  ]
+}

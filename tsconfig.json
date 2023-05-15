@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+      "module": "esnext",
+      "outDir": "./dist",
+      "pretty": true,
+      "target": "es2017",
+      // "module": "commonjs",
+      "allowJs": false,
+      "sourceMap": true,
+      "declaration": true,
+      "strict": true,
+      "noImplicitAny": false ,// Needed to compile tap and ansi-escapes,
+      "moduleResolution": "node"
+  },
+  "include": [
+      "./**/*",
+  ]
+}

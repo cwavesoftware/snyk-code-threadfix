@@ -1,0 +1,6 @@
+snyk_code_report.json
+snyk_code_report.threadfix
+.dccache
+node_modules
+dist
+.vscode
